@@ -70,7 +70,7 @@ Apaga o curso
 
 ## Missão frontend
 
-Desenvolver uma **UI (User Interface)** em **ReactJS** utilizando a sua criatividade.
+Desenvolver uma **UI (User Interface)** em **ReactJS** utilizando a sua criatividade, deve conter no minimo:
 
 - tela de listagem/busca
 - tela de edição/novo
@@ -84,6 +84,7 @@ Desenvolver uma **UI (User Interface)** em **ReactJS** utilizando a sua criativi
     - Detalhe do curso
     - Busca
     - Formulário de novo/edição de curso
+    - Deletar curso
 
 ### Dica
 
