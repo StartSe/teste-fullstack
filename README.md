@@ -70,7 +70,7 @@ Apaga o curso
 
 ## Missão frontend
 
-Desenvolver uma **UI (User Interface)** em **ReactJS** que se pareça com um **CRUD** convencional: 
+Desenvolver uma **UI (User Interface)** em **ReactJS** utilizando a sua criatividade.
 
 - tela de listagem/busca
 - tela de edição/novo
